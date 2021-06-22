@@ -14,7 +14,8 @@
  
 - ## 📫 How to reach me 
 
-   ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - jonatjimen@gmail.com
+   ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/_j.jimenez/)
+   [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez101/)
 
 - ## :man: :man: Social:
 
