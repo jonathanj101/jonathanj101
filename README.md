@@ -2,6 +2,9 @@
 
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
+- ## :open_file_folder: Currently Developing:
+   [Real Estate App W/Django](https://github.com/jonathanj101/real-estate-app)
+
 - ## :notebook_with_decorative_cover: Languages:
    
    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
