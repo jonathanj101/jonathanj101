@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   [Real Estate App W/Django](https://github.com/jonathanj101/real-estate-app)
+   Personal Website w/ Django
 
 - ## :notebook_with_decorative_cover: Languages:
    
