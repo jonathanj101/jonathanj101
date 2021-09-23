@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   Personal Website w/ Django
+   Stock Trading App w/ Django
 
 - ## :notebook_with_decorative_cover: Languages:
    
