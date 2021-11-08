@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   Stock Trading App w/ Django
+   Protect File W/ Python GUI
 
 - ## :notebook_with_decorative_cover: Languages:
    
