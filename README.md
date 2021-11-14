@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   Protect File W/ Python GUI
+   Credit Card Validator W/ Python GUI
 
 - ## :notebook_with_decorative_cover: Languages:
    
