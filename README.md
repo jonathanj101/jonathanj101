@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   Fantasy E-commerce Web App
+   Simple To-Do App With Flutter
 
 - ## :notebook_with_decorative_cover: Languages:
    
