@@ -3,7 +3,7 @@
 ## An Enthusiastic Full Stack < Software Developer /> in New York
 
 - ## :open_file_folder: Currently Developing:
-   Simple To-Do App With Flutter
+   Fax Service API W/ Django
 
 - ## :notebook_with_decorative_cover: Languages:
    
